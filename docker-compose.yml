@@ -1,0 +1,8 @@
+---
+services:
+    lite:
+        image: structurizr/lite:latest
+        volumes:
+            - './diagrams/combined/:/usr/local/structurizr'
+        ports:
+            - '8080:8080'

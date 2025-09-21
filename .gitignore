@@ -1,0 +1,11 @@
+*/**/*.pyc
+
+*/.idea/
+.idea/
+
+*.iml
+
+.vscode
+node_modules/
+
+diagrams/**/.structurizr/
