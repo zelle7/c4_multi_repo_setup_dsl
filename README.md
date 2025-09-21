@@ -6,3 +6,7 @@ More details you can find under the following blog article (link will be added h
 
 ## Start Structurizr
 I have added a docker compose setup to start structurizr lite from the diagrams.
+
+```bash
+    docker compose up -d
+```
